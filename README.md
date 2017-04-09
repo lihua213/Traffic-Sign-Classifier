@@ -34,17 +34,17 @@ The training model is built using Tensorflow containing 5 layers as described be
     * Convolution of 5x5 kernel, 1 stride and 16 feature maps 
     * Activation: ReLU 
     * Pooling: 2x2 kernel and 2 stride
-* **Layer 2: **
+* **Layer 2:**
     * Convolution of 5x5 kernel, 1 stride and 32 feature maps 
     * Activation: ReLU 
     * Pooling: 2x2 kernel and 2 stride
-* **Layer 3: **
+* **Layer 3:**
     * Fully connected layer with 516 units 
     * Activation: ReLU with dropout of 25%
-* **Layer 4: **
+* **Layer 4:**
     * Fully connected layer with 360 units 
     * Activation: ReLU with dropout of 25%
-* **Layer 5: **
+* **Layer 5:**
     * Fully connected layer with 43 units for network output 
     * Activation Softmax
 
