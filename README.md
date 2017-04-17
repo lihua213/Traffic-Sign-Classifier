@@ -1,4 +1,4 @@
-# Traffic Sign Classifier using Deep Neural Networks
+# Traffic Sign Classifier using Deep Neural Networks:
 
 ![Project Video](images/1.png)
 
